@@ -13,11 +13,11 @@ class ContactView {
             <div class="contact-info">
               <div class="info-item">
                 <i data-feather="mail"></i>
-                <span>info@skinsync.com</span>
+                <span>skinsyn@gmail.com</span>
               </div>
               <div class="info-item">
                 <i data-feather="phone"></i>
-                <span>+62 123 4567 890</span>
+                <span>+62 851 8335 3829</span>
               </div>
             </div>
             <form class="contact-form">
