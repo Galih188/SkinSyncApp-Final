@@ -1,4 +1,4 @@
-const API_BASE_URL = "http://be-skinsync-api-v2-production.up.railway.app";
+const API_BASE_URL = "httpz://be-skinsync-api-v2-production.up.railway.app";
 /**
  * Helper untuk mendapatkan header otentikasi.
  * @returns {HeadersInit}
