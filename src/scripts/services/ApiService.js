@@ -1,4 +1,4 @@
-const API_BASE_URL = "http://127.0.0.1:5000";
+const API_BASE_URL = "http://be-skinsync-api-v2-production.up.railway.app";
 /**
  * Helper untuk mendapatkan header otentikasi.
  * @returns {HeadersInit}
